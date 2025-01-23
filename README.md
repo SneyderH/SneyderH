@@ -10,7 +10,7 @@
 
 <pre>
 💻 I am mainly a Web Developer.
-📝 I have a strong interest in Software Engineering and Design.
+📝 I have a strong interest in Web Development.
 🌱 Learning about API's.
 🌟 Main language: C# / .NET 😁
 🚩 Interested in developing useful web applications.
